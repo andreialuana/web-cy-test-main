@@ -1,4 +1,3 @@
-# web-cy-test
 Levando em consideração a página que foi especificada:
 
 Crie um cenário onde clicamos nos botões "One", "Two, e "Four", depois verifique a ausência dos mesmos.
